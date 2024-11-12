@@ -1,0 +1,18 @@
+.SuperheroesList {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    max-width: 1100px;
+    margin: 20px auto;
+    color: #46211A;
+
+}
+
+.PageSelector{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100px;
+    margin-top: 23%;
+}

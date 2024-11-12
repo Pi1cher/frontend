@@ -1,0 +1,17 @@
+.SuperheroInfo{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 500px;
+    margin: auto;
+    padding: 5px
+}
+
+.SuperheroInfo > div {
+    padding: 5px;
+}
+
+.SuperheroInfo > button {
+    width: 500px;
+    height: 30px
+}

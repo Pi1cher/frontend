@@ -1,0 +1,19 @@
+.Form{
+    display: flex;
+    flex-flow: column;
+    width: 500px;
+    margin: 10px auto;
+    padding: 5px
+}
+
+.Form > input {
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.Form > button {
+    width: 500px;
+    height: 30px
+}
